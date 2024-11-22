@@ -1,0 +1,11 @@
+* 1 Primero abrir el cmd 
+* 2 Tener los paquetes instalados correctamente 
+numpy==1.21.0
+pandas==1.3.5
+scipy==1.7.3
+scikit-learn==1.0.2
+
+* 3 dirigirse dodne esta el proyecto con cd en la terminal   
+* 4 Instalar Streamlit
+* 5 ejecutar el comando  "streamlit run app.py" 
+* Se ejecutara el proyecto 
